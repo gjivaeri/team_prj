@@ -23,6 +23,6 @@
 	</script>
 </head>
 <body>
-
+안녕하세요? 같이 팀플하게된 팀원입니다 ~
 </body>
 </html>
